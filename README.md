@@ -4,6 +4,7 @@
  - Android Studio
  - Java installed
  - Node Installed
+ - React Native CLI installed
 
 ### How to run
 
